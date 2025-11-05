@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CIMS - Consortium Informatique Multi-Sectoriel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="overlay">
+      <h1 class="animated-title">CIMS</h1>
+      <p>L’informatique au service de tous les secteurs socio-économiques</p>
+      <a href="#secteurs" class="cta-btn">Découvrir les secteurs</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="secteurs">
+      <h2>Nos 8 secteurs d’action</h2>
+      <div class="secteurs-grid">
+        <div class="secteur">
+          <img src="icons/agriculture.png" alt="Agriculture">
+          <h3>Agriculture & Agroalimentaire</h3>
+          <p>Optimisation de la production avec IoT, drones et ERP agricoles.</p>
+        </div>
+        <div class="secteur">
+          <img src="icons/industrie.png" alt="Industrie">
+          <h3>Industrie & Production</h3>
+          <p>Automatisation, maintenance prédictive et ERP industriel.</p>
+        </div>
+        <div class="secteur">
+          <img src="icons/energie.png" alt="Énergie">
+          <h3>Énergie & Mines</h3>
+          <p>Smart grid et monitoring pour une gestion optimale des ressources.</p>
+        </div>
+        <div class="secteur">
+          <img src="icons/sante.png" alt="Santé">
+          <h3>Santé & Pharmacie</h3>
+          <p>Télémédecine, dossiers médicaux numériques et IA pour diagnostic.</p>
+        </div>
+        <div class="secteur">
+          <img src="icons/education.png" alt="Éducation">
+          <h3>Éducation & Formation</h3>
+          <p>LMS, MOOC et réalité augmentée pour améliorer l’apprentissage.</p>
+        </div>
+        <div class="secteur">
+          <img src="icons/finance.png" alt="Finance">
+          <h3>Finance & Assurance</h3>
+          <p>Fintech, blockchain et applications sécurisées pour les services financiers.</p>
+        </div>
+        <div class="secteur">
+          <img src="icons/transport.png" alt="Transport">
+          <h3>Transport & Logistique</h3>
+          <p>Suivi de flotte, GPS et optimisation des itinéraires.</p>
+        </div>
+        <div class="secteur">
+          <img src="icons/tourisme.png" alt="Tourisme">
+          <h3>Tourisme & Services</h3>
+          <p>Applications de réservation et expérience client améliorée.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="map-section">
+      <h2>Carte des secteurs couverts</h2>
+      <div id="map"></div>
+    </section>
+
+    <section id="contact">
+      <h2>Rejoindre le consortium ou proposer un projet</h2>
+      <form id="contact-form">
+        <input type="text" name="name" placeholder="Votre nom" required>
+        <input type="email" name="email" placeholder="Votre email" required>
+        <textarea name="message" placeholder="Votre message / projet" required></textarea>
+        <button type="submit">Envoyer</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 CIMS - Consortium Informatique Multi-Sectoriel</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
