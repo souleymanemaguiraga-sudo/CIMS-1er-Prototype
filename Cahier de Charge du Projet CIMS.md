@@ -22,13 +22,12 @@
 - tourisme sous-valorisé
 ***Conclusion :** L’absence d’intégration numérique limite la croissance nationale.*
 
-  # 3 Notre Solution : CIMS
+# 3 Notre Solution : CIMS
 - Un consortium qui construit et déploie des solutions digitales adaptées aux 8 secteurs clés de l’économie.
 - Plateforme multicloud
 - Solutions logicielles clés-en-main par secteur
 - Centre de R&D & Innovation Tech (IA, IoT, Blockchain)
 - Académie Tech & Certification locale
-
 **Destiné à :**
 - État
 - Grandes entreprises
@@ -56,8 +55,8 @@
 | Finance & Assurance           | Fintech, blockchain, cybersécurité, mobile banking      | Inclusion financière, fiabilité, transparence          |
 | Transport & Logistique        | GPS tracking, IA itinéraire, IoT flotte                 | Optimisation livraisons, réduction coûts               |
 | Tourisme & Services           | App tourismes, AR guides virtuels, CRM                  | Expérience enrichie, gestion modernisée                |
-**Objectif final :** Construire un écosystème numérique national rentable et scalable.
 
+**Objectif final :** Construire un écosystème numérique national rentable et scalable.
 
 # 5 Structure & Gouvernance du Consortium
 | Structure                               | Rôle                                              |
@@ -68,6 +67,7 @@
 | R&D & Innovation Lab                    | Prototypage, innovation, tests                    |
 | Marketing, Communication & Partenariats | Branding, collaboration publique-privée           |
 | Centre de Formation & Certification     | Formations IA, IoT, DevOps, Cloud, Digital skills |
+
 *Nous allons réunir les meilleurs experts, entreprises, universités et startups.*
 # Technologies & plateformes
 | Technologie            | Applications                                    |
@@ -88,6 +88,7 @@
 | Pilote                  | 3 mois    | 1–2 secteurs opérationnels             |
 | Déploiement             | 6–12 mois | 8 secteurs digitalisés progressivement |
 | Formation & expansion   | Continu   | Compétences locales + scale régional   |
+
 **Livrables du projet**
 - Solutions digitales sectorielles
 - Plateforme cloud collaborative
