@@ -1,8 +1,8 @@
 # Nom du projet : Consortium Informatique Multi-Sectoriel (CIMS)
 
 # Vision & Mission
-**Vision :** Faire du digital un moteur de transformation socio-économique dans les 8 secteurs clés du développement.
-**Mission :** Mettre en place une plateforme collaborative réunissant experts, entreprises, institutions et start-ups pour co-créer et intégrer des solutions numériques adaptées aux besoins sectoriels.
+- **Vision :** Faire du digital un moteur de transformation socio-économique dans les 8 secteurs clés du développement.
+- **Mission :** Mettre en place une plateforme collaborative réunissant experts, entreprises, institutions et start-ups pour co-créer et intégrer des solutions numériques adaptées aux besoins sectoriels.
 
 # 1 Introduction
 - Le monde se digitalise → les pays qui suivent gagnent en productivité, en innovation et en souveraineté.
