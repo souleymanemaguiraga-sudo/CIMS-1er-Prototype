@@ -8,6 +8,7 @@
 - Le monde se digitalise → les pays qui suivent gagnent en productivité, en innovation et en souveraineté.
 - Aujourd’hui, tous les secteurs économiques ont un besoin urgent de solutions numériques.
 - Notre vision : devenir l’acteur qui industrialise la digitalisation sectorielle en Afrique / [pays].
+
 **« Le CIMS n’est pas un projet — c’est une infrastructure numérique stratégique pour l'économie. »**
 
 # 2 Le Problème à résoudre
